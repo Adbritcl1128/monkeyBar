@@ -1,0 +1,138 @@
+.logo {
+  background-color: purple;
+  height: 20px;
+  width: 50px;
+  margin-top: 1em;
+}
+
+.brand {
+  background-color: purple;
+  height: 20px;
+  width: 200px;
+  margin-top: 1em;
+}
+
+.main-body {
+  background-color: green;
+  height: 300px;
+  width: 1000px;
+  margin-top: 1em;
+}
+
+.top-sub-body-one {
+  background-color: pink;
+  height: 100px;
+  width: 450px;
+}
+
+.top-sub-body-two {
+  background-color: pink;
+  height: 100px;
+  width: 135px;
+}
+
+.top-sub-body-three {
+  background-color: pink;
+  height: 100px;
+  width: 135px;
+}
+
+.bottom-sub-body-one {
+  background-color: pink;
+  height: 100px;
+  width: 450px;
+}
+
+.bottom-sub-body-two {
+  background-color: pink;
+  height: 100px;
+  width: 135px;
+
+}
+.bottom-sub-body-three {
+  background-color: pink;
+  height: 100px;
+  width: 135px;
+}
+
+.accordian-header {
+  background-color: purple;
+  width: 135px;
+  height: 25px;
+  margin-top: 1em;
+}
+
+.accordian-header-long {
+  background-color: purple;
+  width: 450px;
+  height: 25px;
+  margin-top: 1em;
+}
+
+.pieces {
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.trieces {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+
+
+
+.playGround {
+  background-color: white;
+  height: 425pt;
+  width: 425pt;
+  border: 1px solid black;
+}
+
+.greeting {
+  text-align: center;
+  padding-top: 50pt;
+  font-family: Sentinel A Reg;
+  font-size: 48pt;
+  color: #476887;
+}
+
+.notification {
+  text-align: center;
+  padding-top: 30pt;
+  font-family: Gotham Narrow Reg;
+  font-size: 16pt;
+  line-height: 24pt;
+  color: #666666;
+}
+
+.prompt {
+  text-align: center;
+  font-family: Gotham Narrow Reg;
+  font-size: 16pt;
+  line-height: 24pt;
+  color: #666666;
+}
+
+.button {
+  position: relative;
+  left: 124pt;
+  width: 173pt;
+  height: 40pt;
+  background-color: #476887;
+  color: #ffffff;
+}
+
+.button:hover {
+  background-color: #509de5;
+}
+
+.close {
+  text-align: right;
+  padding-right: 7pt;
+  padding-top: 7pt;
+}
